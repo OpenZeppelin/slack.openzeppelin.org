@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"  
+  to = "https://blog.zeppelin.solutions/launching-the-zeppelin-community-forum-5a706c2397ab"
+  status = 301
